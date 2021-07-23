@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log
+//my Log// 
+### Day 1: July 21, Wednesday:
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**What I Learnt Today** Getting a better understanding of using Git bash's commands, 
+learned how to shallow copy and deep copy Objects in JavaScript, 
+and better and manipulating arrays in JavaScript.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts** I'm getting in deep with JavaScript now, but i feel like there is so many other Coding Languages that I have to learn or keep up with.
+Git Bash is giving me a hard time, I need to Review my CSS and a bit of HTML, and JavaScript is starting to get hard.
+My plan of action is to learn more Git Hub/Git Bash Thursday and Friday, and then Saturday lean in more to JavaScript for those Kew concepts in my meeting with Jamal Saturday. 
+Then Sunday I'll chill and try and review/build things with HTML and CSS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Feeling** A bit intimidated, but I am hopefull and still ambitious when it comes to coding oppurtunities!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[C:\Users\Johnny 5 VAF\Documents\Development\JSFunSummer2021\exercises\04-arrays-sets\arrays-sets.js] (on my computer)
+what it was about[https://slides.com/accjavascript/deck-10/#/11/0/0]
+
+### Day 2: July 22, Thursday:
+
+**What I Learnt Today** So I finally fixed my local git repo for my JavaScript class. I believe the original mistake I made was basically making clones of the my Head.
+I git reset that and made sure that the connection to the remote repo was still there, so its all set now! I also set up another workspace on visual studio to practice HTML and CSS.
+I was able to make multiple files and connect them, the only problem is that you i can't see how CSS is affecting my HTML. 
+That will be something I have to fix.
+
+**Thoughts** memories of the code I ran earlier in the year are flooding my mind. I am beginning to remember how to write html and css!
+I am eager to try and apply some JavaScript to these pages to see what cool stuff I can do! ( I know tha will come with time though, I am in a JavaScript class for goodness sakes XD)
+
+**Feeling** Growing in Confidences!
+**Links to my work**
+[https://www.w3schools.com/html/html_css.asp]
+[https://git-scm.com/docs/git-reset]
